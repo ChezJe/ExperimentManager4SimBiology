@@ -1,8 +1,8 @@
-# Automatically testing fitting options with Experiment Manager
+# Automatically testing fitting options with Experiment Manager and SimBiology
 
 Selecting the right settings for parameter estimation might require multiple trials.
 
-This repository contains examples of running batch fitting tasks using Experiment Manager.
+This repository contains examples of running batch fitting tasks with SimBiology using Experiment Manager.
 
 [Experiment Manager](https://www.mathworks.com/help/matlab/ref/experimentmanager-app.html) in MATLAB is a tool designed to streamline and manage the process of running and comparing multiple experiments. It organizes, configures, and executes experiments, enabling users to track results, visualize metrics, and analyze outcomes for finding the optimal parameters for their task.
 
