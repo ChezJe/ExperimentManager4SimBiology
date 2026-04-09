@@ -13,6 +13,9 @@ Two examples are included:
 2. **Nonlinear mixed effects -** an example where 1- and 2-compartment models are fitted against the Phenobarbital dataset described in [3] with different covariate expressions using SAEM.
 
 <br />
+
+To open a project, start the Experiment Manager app and in the App open the associated *ExperimentProject.prj* file.
+
 <br />
 <br />
 
